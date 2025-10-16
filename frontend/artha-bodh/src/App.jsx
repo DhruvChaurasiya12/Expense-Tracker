@@ -10,7 +10,6 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
-// import UserProvider from "./context/userContext";
 import UserProvider from "./context/UserContext";
 import { Toaster } from "react-hot-toast";
 
